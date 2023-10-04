@@ -1,0 +1,26 @@
+[
+  {
+    "question": "Inside which HTML element do we put the Javascript ??",
+    "choice1": "<shello>",
+    "choice2": "<javascript>",
+    "choice3": "<galo>",
+    "choice4": "<scripting>",
+    "answer": 1
+  },
+  {
+    "question": "hallow which HTML element do we put the Javascript ??",
+    "choice3": "<js>",
+    "choice1": "<script>",
+    "choice2": "<maloascript>",
+    "choice4": "<scripting>",
+    "answer": 2
+  },
+  {
+    "question": "hii which HTML element do we put the Javascript ??",
+    "choice1": "<script>",
+    "choice2": "<javascript>",
+    "choice3": "<js>",
+    "choice4": "<scripting>",
+    "answer": 3
+  }
+]
